@@ -1,0 +1,16 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: Papyrus, fantasy;
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+    color: rgb(255, 240, 245);
+    font-size: 20px;
+}
