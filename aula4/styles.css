@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#chamada {
+    font-size: 20px;
+}
+
+#chamada strong {
+    color: blue;
+}
